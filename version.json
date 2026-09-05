@@ -1,4 +1,8 @@
 {
-    "version": "1.2.0"  ,
-    "download_url": "https://github.com/heewonchun-del/danolstudio-update/releases/download/v1.2.0/danolstudio_setup.exe"  
+  "version": "1.2.1",
+  "date": "2026-09-05",
+  "notes": "auto-update test",
+  "url": "https://github.com/heewonchun-del/danolstudio-update/releases/download/v1.2.0/danolstudio_setup.exe",
+  "sha256": "91f4ec7409a3ed4a3cfaef73c2dbb103a54762c0903985d27576d77b16b00483",
+  "reboot_required": false
 }
